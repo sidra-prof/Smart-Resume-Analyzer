@@ -1,0 +1,12 @@
+
+output/
+*.o
+*.obj
+.git
+ResumeAnalyzer.exe
+*.out
+data
+*.exe
+output/*.txt
+.vscode/
+*.o
